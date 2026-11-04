@@ -1,4 +1,5 @@
-# General Info
+# Juniper Switch Setup
+## General Info
 
 Modle: Juniper EX3300
 Junos Version:
@@ -12,7 +13,7 @@ Junos Version:
 
 
 
-# Progress logs
+## Progress logs
 
 2026/10/27
 
