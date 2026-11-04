@@ -10,12 +10,15 @@ Modle: Juniper EX3300
 
 Junos Version:
 
+## Setup Steps
 
 
 
+## Config (commands, files)
 
 
 
+## Troubleshooting
 
 
 
@@ -40,3 +43,7 @@ I also need a adapter because the ethernet adapter on my laptop apparently dosen
 I no longer need the adapter. I will just buy a ethernet to USB, serial adapter 
 
 I researched some more and found out the method I was going to use doesn't work, so I will just get the adapter
+
+## Resources / Links
+
+
