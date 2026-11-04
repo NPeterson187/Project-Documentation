@@ -6,7 +6,15 @@ Junos Version:
 
 
 
-# Progress
+
+
+
+
+
+
+# Progress logs
+
+2026/10/27
 
 At the moment of making this I have already done a bit of diggging through information and using AI to help resurch how to set the switch up.
 
@@ -20,7 +28,7 @@ I also need a adapter because the ethernet adapter on my laptop apparently dosen
 
 (example of adapter)
 
-10/28/2026
+2026/10/28
 
 I no longer need the adapter. I will just buy a ethernet to USB, serial adapter 
 
