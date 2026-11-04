@@ -1,5 +1,10 @@
 # Juniper Switch Setup
-## General Info
+
+## Overview
+
+In this project I plan to learn how to set up and configure a switch for my home lab. I will also be using this as practice for documentation and setting up a general documentation scheme for this repo.
+
+## Hardware / Software / Versions
 
 Modle: Juniper EX3300
 Junos Version:
@@ -13,11 +18,11 @@ Junos Version:
 
 
 
-## Progress logs
+## Progress logs (dated entries)
 
 2026/10/27
 
-At the moment of making this I have already done a bit of diggging through information and using AI to help resurch how to set the switch up.
+At the moment of making this I have already done a bit of diggging through information and using AI to help reasurch how to set the switch up.
 
 I have the PuTTY software and I havent used it yet becuase I have yet to get a console cable.
 
@@ -25,7 +30,7 @@ I am able to make one becasue I have the resources but before I tried using an n
 
 I also need a adapter because the ethernet adapter on my laptop apparently dosen't work for what I am trying to do.
 
-![alt text](image.png)
+![Adapter](image.png)
 
 (example of adapter)
 
