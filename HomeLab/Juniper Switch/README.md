@@ -6,7 +6,7 @@ In this project I plan to learn how to set up and configure a switch for my home
 
 ## Hardware / Software / Versions
 
-Modle: Juniper EX3300
+Modle: Juniper EX3300 POE+
 
 Junos Version:
 
